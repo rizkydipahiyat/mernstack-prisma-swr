@@ -1,0 +1,25 @@
+#1. Install 
+- express
+- cors
+- dotenv
+
+#2. Install -D 
+- npm i prisma
+
+#3. Install @prisma/client
+- npm i @prisma/client
+
+#4. Initialize Prisma In Backend
+- npx prisma init
+
+#5. Edit Database & env Postgresql
+- To mysql
+
+#6. Create Model Product In schmea.prisma
+
+#7. Running Prisma Migration
+- npx prisma migrate dev
+- create folder name on terminal
+
+#8. Added package.json
+- type module
